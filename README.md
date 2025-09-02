@@ -209,3 +209,4 @@ cd Wiper/processing/object_detection/custom_yolov5/scripts
 * [손주석] (https://github.com/snSon)
 * [이준영] (https://github.com/jun-yeong1)
 * [최창욱] (https://github.com/ourwater5287)
+* [이재웅] (https://github.com/pgjaeung)
